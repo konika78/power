@@ -1,0 +1,16 @@
+table,
+th,
+td{
+    border: 1px solid red;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+.tablerow {
+    width: 100%;
+}
+h1 {
+    background-color: blue;
+    height: 40px;
+    text-align: center;
+}
